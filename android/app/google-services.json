@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459065361586",
+    "project_id": "locator-4bda2",
+    "storage_bucket": "locator-4bda2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459065361586:android:9c4614d064d1ce2fb875ab",
+        "android_client_info": {
+          "package_name": "com.locatorapp.yenecode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459065361586-34uf2itj759aqsoar5j1323jgsiufkgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANRSN0JHAEaFvB6HOv7OvnB8eKllXUqVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459065361586-34uf2itj759aqsoar5j1323jgsiufkgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
