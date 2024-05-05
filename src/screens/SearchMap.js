@@ -90,7 +90,7 @@ const SearchMap = ({ navigation, route: { params = {} } = {} }) => {
                         });
                     }}
                     query={{
-                        key: 'AIzaSyANRSN0JHAEaFvB6HOv7OvnB8eKllXUqVg',
+                        key: '',
                         language: 'en',
                     }}
                 />
